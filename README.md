@@ -1,4 +1,5 @@
-This script extend the transcripts' 3'UTRs of GTF file to have a better mapping of 
+This script has been developped in the frame of the M1 internship. 
+It extends the transcripts' 3'UTRs of GTF file to have a better mapping of 
 library with a high number of reads in 3'UTR. (e.g. ScRNA-seq analysis).
 
 usage: gene_extension.py [-h] [-i FILENAME.gtf] [-o OUTPUT] [-l EXTENT_LENGTH]
